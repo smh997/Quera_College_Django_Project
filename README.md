@@ -1,0 +1,1 @@
+# Quera_College_Django_Project
